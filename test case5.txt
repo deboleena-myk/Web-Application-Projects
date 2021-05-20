@@ -1,0 +1,28 @@
+Content/ dropdown 
+Command 	Target 	   			Value 
+Click	name=Vision, mission and values	
+Click	name=Guiding principles	
+Click	name=Advisors and patrons	
+Click	name=Executive team	
+Click	name=Corporate partners	
+Click	name=Expert mentors	
+Click	name=News	
+Click	name=Policies	
+Click	name=Code of ethics and conduct	
+Click	name=Personal data policy	
+Click	name=Whistle blowing policy	
+Click	name=Service quality values	
+Click	name=Student scholarship program	
+Click	name=Student mentorship program	
+Click	name=Student SOS program	
+Click	name=Workshops	
+Click	name=Corporate program	
+Click	name=Software and app	
+Click	name=Salient features	
+Click	name=AI in education	
+Click	name=Why join us	
+Click	name=Expert mentors	
+Click	name=Events volunteers	
+Click	name=Management volunteer	
+Click	name=Internship positions	
+Click	name=Board ambassador	

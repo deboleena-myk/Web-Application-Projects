@@ -1,0 +1,520 @@
+
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>The Sparks Foundation | Home
+</title>
+<!-- Meta-Tags -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="The Sparks Foundation Singapore, The Sparks Foundation India, Charity, Non Profit Organization, Social Enterprise, Non Governmental Organization" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //Meta-Tags -->
+<!-- Custom-Stylesheet-Links -->
+<!-- Bootstrap-CSS --> <link href="/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<!-- Font-awesome-CSS --> <link href="/css/font-awesome.css" rel="stylesheet"> 
+<!-- Flex-slider-CSS --><link rel="stylesheet" href="/css/flexslider.css" type="text/css" media="screen" property="" />
+<!-- Owl-carousel-CSS --><link href="/css/owl.carousel.css" rel="stylesheet">
+<!-- Index-Page-CSS --><link href="/css/style.css" rel="stylesheet" type="text/css" media="all" />
+<!-- //Custom-Stylesheet-Links -->
+<!--web-fonts-->
+<!-- Headings-font --><link href="/fonts/fonts1.css" rel="stylesheet">
+<!-- Body-font --><link href="/fonts/fonts2.css" rel="stylesheet">
+<!--//web-fonts-->
+<!--//fonts-->
+<!-- js -->
+<style>
+.service-grid1, .service-grid2{ margin-top:1.5em}
+.dropdown-menu{font-size:20px;}
+.navbar-nav{font-size:20px;}
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+</style>
+</head>
+<body>
+<!-- banner -->
+<div class="banner" id="home">
+	<div class="banner-overlay-agileinfo">
+	<div class="top-header-agile">
+		<h1><a class="col-md-6 navbar-brand" href="/"><img src="/images/logo_small.png" style="padding:5px; height:100%; float:left; background: linear-gradient(to top, rgba(254, 254, 254, 0.4), rgba(250, 250, 250, 0));;"></img> &nbsp;The Sparks Foundation<span>&nbsp;&nbsp;&nbsp;&nbsp;...inspiring,innovating,integrating</span></a></h1>
+
+			
+			<div class="clearfix"></div>
+		</div>
+
+		<div class="container">
+			<nav class="navbar navbar-default">
+				<div class="navbar-header navbar-left">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+				</div>
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1" style="margin-left:1em">
+					<nav class="link-effect-3" id="link-effect-3">
+						<ul class="nav navbar-nav">
+							<li class="dropdown menu__item">
+								<a href="#" class="dropdown-toggle menu__link"  data-toggle="dropdown" data-hover="About" role="button" aria-haspopup="true" aria-expanded="false">About Us<span class="caret"></span></a>
+								<ul class="dropdown-menu" style="min-width:300px;">
+									<li><a href="/about/vision-mission-and-values/">Vision, Mission and Values</a></li>
+									<li><a href="/about/guiding-principles/">Guiding Principles</a></li>
+									<li><a href="/about/advisors-and-patrons/">Advisors and Patrons</a></li>
+									<li><a href="/about/executive-team/">Executive Team</a></li>
+									<li><a href="/about/corporate-partners/">Corporate Partners</a></li>
+									<li><a href="/about/expert-mentors/">Expert Mentors</a></li>
+									<li><a href="/about/news/">News</a></li>
+									<!--   <li><a href="/about/services/">Services</a></li>    -->
+								</ul>
+							</li>
+							<li class="dropdown menu__item">
+								<a href="#" class="dropdown-toggle menu__link"  data-toggle="dropdown" data-hover="Policies and Code" role="button" aria-haspopup="true" aria-expanded="false">Policies and Code<span class="caret"></span></a>
+								<ul class="dropdown-menu" style="min-width:300px;">
+									<li><a href="/policies-and-code/policies/">Policies</a></li>
+									<li><a href="/policies-and-code/code-of-ethics-and-conduct/">Code of Ethics and Conduct</a></li>
+									<li><a href="/policies-and-code/personal-data-policy/">Personal Data Policy</a></li>
+									<li><a href="/policies-and-code/whistle-blowing-policy/">Whistle Blowing Policy</a></li>
+									<li><a href="/policies-and-code/service-quality-values/">Service Quality Values</a></li>
+								</ul>
+							</li>
+							<li class="dropdown menu__item">
+								<a href="#" class="dropdown-toggle menu__link"  data-toggle="dropdown" data-hover="Programs" role="button" aria-haspopup="true" aria-expanded="false">Programs<span class="caret"></span></a>
+								<ul class="dropdown-menu" style="min-width:300px;">
+									<li><a href="/programs/student-scholarship-program/">Student Scholarship Program</a></li>
+									<li><a href="/programs/student-mentorship-program/">Student Mentorship Program</a></li>
+									<li><a href="/programs/student-sos-program/">Student SOS Program</a></li>
+									<li><a href="/programs/workshops/">Workshops</a></li>
+									<li><a href="/programs/corporate-programs/">Corporate Programs</a></li>
+								</ul>
+							</li>
+							<li class="dropdown menu__item">
+								<a href="#" class="dropdown-toggle menu__link"  data-toggle="dropdown" data-hover="LINKS" role="button" aria-haspopup="true" aria-expanded="false">LINKS<span class="caret"></span></a>
+								<ul class="dropdown-menu" style="min-width:300px;">
+									<li><a href="/links/software-and-app/">Software & App</a></li>
+									<li><a href="/links/salient-features/">Salient Features</a></li>
+									<li><a href="/links/ai-in-education/">AI in Education</a></li>
+								</ul>
+							</li>
+							<li class="dropdown menu__item">
+								<a href="#" class="dropdown-toggle menu__link"  data-toggle="dropdown" data-hover="Join Us" role="button" aria-haspopup="true" aria-expanded="false">Join Us<span class="caret"></span></a>
+								<ul class="dropdown-menu" style="min-width:300px;">
+									<li><a href="/join-us/why-join-us/">Why Join Us</a></li>
+									<li><a href="/join-us/expert-mentor/">Expert Mentor</a></li>
+									<li><a href="/join-us/events-volunteer/">Events Volunteer</a></li>
+									<li><a href="/join-us/management-volunteer/">Management Volunteer</a></li>
+									<li><a href="/join-us/internship-positions/">Internship Positions</a></li>
+									<li><a href="/join-us/brand-ambassador/">Brand Ambassador</a></li>
+								</ul>
+							</li>
+							<li><a href="/contact-us/" data-hover="Contact Us">Contact Us</a></li>
+						</ul>
+					</nav>
+				</div>
+			</nav>	
+			<div class="w3l_banner_info">
+				<section class="slider">
+					<div class="flexslider">
+						<ul class="slides">
+							<li>
+								<div class="wthree_banner_info_grid">
+									<h3>Events</h3>
+									<p>We organize events, allowing students to learn from the masters in their fields. Get inspired. Through stories and workshops, we show them feasibility of big dreams.</p>
+								</div>
+							</li>
+							<li>
+								<div class="wthree_banner_info_grid">
+									<h3>Internships</h3>
+									<p>We conduct internship program to help students be ready for what is coming to them in their career ahead. To know more about the GRIP program, scroll down.</p>
+								</div>
+							</li>
+							<li>
+								<div class="wthree_banner_info_grid">
+									<h3>Mentorship</h3>
+									<p>We help students and enable them to move forward, get unstuck from any unfavorable situation. We keep an alternative channel open always to help them, when school and people around are not enough.</p>
+								</div>
+							</li>
+							<li>
+								<div class="wthree_banner_info_grid">
+									<h3>Support</h3>
+									<p>We connect them to available resources. We support students when there is none available.</p>
+								</div>
+							</li>
+							<li>
+								<div class="wthree_banner_info_grid">
+									<h3>Scholarship</h3>
+									<p>We provide financial assistance to meritorious and deserving students. We provide prizes, motivating students to bring out their best.</p>
+								</div>
+							</li>
+							<li>
+								<div class="wthree_banner_info_grid">
+									<h3>Community</h3>
+									<p>We have built a community of sharing knowledge, helping each other. We encourage asking for help, and let inner desire drive students to success.</p>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</section>
+						
+			</div>			
+		</div>
+	</div>
+</div>
+<!-- //banner -->	
+<!-- about -->
+	<div class="about-w3layouts">
+		<div class="container">
+			<div class="col-md-6 col-sm-6 gallery-grids agileits w3layouts gallery-grids1 wow slideInLeft" style="top:0px;">
+				<div class="agileits w3layouts embed-container">
+					<iframe id="youtube-video" width="560" height="315" src="" frameborder="0" allow='autoplay' allowfullscreen></iframe>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+
+			<div class="col-md-6 col-sm-6 gallery-grids agileits w3layouts gallery-grids2 wow slideInRight">
+				<h2 class="tittle-agileits-w3layouts">The Sparks Foundation</h2>
+				<h5>Mission and Vision Statement</h5>
+				<p class="para-w3-agile">The sparks foundation is working to bring parity in education, making sure children have equal opportunity at success, irrespective of the financial background.</p>
+				<a href="/about/vision-mission-and-values/" class="button-w3layouts hvr-rectangle-out">know more</a>
+			</div>
+			<div class="clearfix"></div>
+			
+		</div>
+	</div>
+	<!-- //about -->
+
+<!--/services-->
+<div class="services-w3-agileits w3agileits-ref">
+	<div class="col-md-6 services-left">
+		<div class="service-grid1">
+			<div class="col-md-4 service-grids-w3ls">
+				<i class="fa fa-language" aria-hidden="true"></i>
+				<h5>Be Multilingual</h5>
+				<p>Meet with people around the world</p>
+			</div>
+			<div class="col-md-4 service-grids-w3ls">
+				<i class="fa fa-users" aria-hidden="true"></i>
+				<h5>Community</h5>
+				<p>Teach and Learn at same time</p>
+			</div>
+			<div class="col-md-4 service-grids-w3ls">
+				<i class="fa fa-graduation-cap" aria-hidden="true"></i>
+				<h5>Professional Courses</h5>
+				<p>Under guidance of the Experts</p>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+		<div class="service-grid2">
+			<div class="col-md-4 service-grids-w3ls">
+				<i class="fa fa-book" aria-hidden="true"></i>
+				<h5>Exchange Books</h5>
+				<p>Exchange your books with peers</p>
+			</div>
+			<div class="col-md-4 service-grids-w3ls">
+				<i class="fa fa-phone" aria-hidden="true"></i>
+				<h5>Connect</h5>
+				<p>Connect with mentors whenever needed</p>
+			</div>
+			<div class="col-md-4 service-grids-w3ls">
+				<i class="fa fa-calendar-check-o" aria-hidden="true"></i>
+				<h5>Anytime</h5>
+				<p>Choose your schedule as per your convenience</p>
+			</div>
+			<div class="clearfix"></div>
+		</div>		
+	</div>
+	<div class="col-md-6  services-right">
+		<div class="services-info">
+			<h3 class="tittle-agileits-w3layouts white-w3ls">Make and Impact!</h3>
+			<p class="para-w3-agile white-w3ls">You can join The Sparks Foundation as a learner, mentor, expert, intern and make an impact on education. Learn and Share.</p>
+			<a href="/join-us/why-join-us/" class="button-w3layouts hvr-rectangle-out">Learn more</a>
+		</div>
+	</div>
+	<div class="clearfix"></div>
+</div>
+<!--//services-->
+
+<!-- Register -->
+<div class="register-wthree">
+	<div class="container">
+	<div class="col-md-6 regstr-l-w3-agileits">
+		<h3 class="tittle-agileits-w3layouts white-w3ls">Internship Programs at TSF</h3>
+		<h4><a target="_blank" href="https://www.linkedin.com/company/the-sparks-foundation/" style="color:#f5b120; margin:10px 0px 20px 0px;">Graduate Rotational Internship Program</a></h4>
+	<a target="_blank" href="https://www.linkedin.com/company/the-sparks-foundation/" class="button-w3layouts hvr-rectangle-out">Visit Now</a>
+	</div>
+	<div class="col-md-6 regstr-r-w3-agileits">
+	<div class="form-bg-w3ls">
+		<h3>FAQ, Application</h3>
+		<p class="para-w3-agile white-w3ls">All information related to GRIP can be obtained via our Company Page on LinkedIn.</p>
+		<a target="_blank" href="https://www.linkedin.com/company/the-sparks-foundation/" class="button-w3layouts hvr-rectangle-out">The Sparks Foundation : Company Page</a><br/><br/>
+		<h3>Everything Else about GRIP </h3>
+		<p class="para-w3-agile white-w3ls">If you have any questions and doubts related to GRIP - Please ask it in the TSF Network dedicated to such questions</p>
+		<a target="_blank" href="https://www.linkedin.com/groups/10379184/" class="button-w3layouts hvr-rectangle-out">TSF Network @ LinkedIn</a>
+
+	</div>
+	</div>
+	<div class="clearfix"></div>
+	</div>
+</div>
+<!-- //Register -->
+<!-- agile_testimonials -->
+<div class="test">
+	<div class="container">
+	<div class="col-md-3 test-left-agileinfo" style="padding: 8em 0em;">
+	<h3 class="tittle-agileits-w3layouts">Corporate Partners</h3>
+	</div>
+		<div class="col-md-9 test-gr">
+					<div class=" test-gri1">
+					 <div id="owl-demo2" class="owl-carousel">
+							<div class="agile">
+							   	<div class="test-grid">
+							   		<div class="col-md-8 test-grid1" style="padding:0em 3em;">
+										<h4 style="margin:0em;">AINE AI</h4><br/><br/>
+										<span></span><p class="para-w3-agile">We are deep tech company, developing technology products which are inherently enabled with artificial intelligence. With our APIs and customizable hosted products, we allow legacy and developing software to make use of AI modules readily available in market. Our mission is to empower businesses with easy to integrate, powerful and affordable deep technology solutions. 
+										<br/><a target="_blank" href="https://aine.ai" class="button-w3layouts hvr-rectangle-out">Explore</a>
+										</p>
+									</div>	
+									<div class="col-md-4 test-grid2">
+										<!--img src="images/t4.jpg" alt="" class="img-r"-->
+									</div>
+								</div>	
+								<div class="clearfix"></div>
+							</div>	
+							<div class="agile">
+							   	<div class="test-grid">
+							   		<div class="col-md-8 test-grid1" style="padding:0em 3em;">
+										<h4 style="margin:0em;">Xaltius</h4><br/><br/>
+										<span></span><p class="para-w3-agile">Xaltius is a technology driven company with expertise to provide innovative software solutions to customers around the globe, with a diverse team mainly focused on delivering solutions in Data Science & Analytics, Computer Vision and Knowledge Management.
+										<br/><a target="_blank" href="http://xaltius.tech" class="button-w3layouts hvr-rectangle-out">Explore</a>
+										</p>
+									</div>	
+									<div class="col-md-4 test-grid2">
+										<!--img src="images/t4.jpg" alt="" class="img-r"-->
+									</div>
+								</div>	
+								<div class="clearfix"></div>
+							</div>	
+							<div class="agile">
+							   	<div class="test-grid">
+							   		<div class="col-md-8 test-grid1" style="padding:0em 3em;">
+										<h4 style="margin:0em;">Code for India</h4><br/><br/>
+										<span></span><p class="para-w3-agile">At CodeForIndia, we believe that human and machine intelligence are always at par and complement each other. But machine intelligence is moving at a pace that our human intelligence cannot keep up. CodeForIndia aims at bridging that gap right from an early age, up-skilling the youth with the latest technologies and preparing them for the future.
+										<br/><a target="_blank" href="http://codefor.in" class="button-w3layouts hvr-rectangle-out">Explore</a>
+										</p>
+									</div>	
+									<div class="col-md-4 test-grid2">
+										<!--img src="images/t4.jpg" alt="" class="img-r"-->
+									</div>
+								</div>	
+								<div class="clearfix"></div>
+							</div>
+						</div>
+				</div>	
+		</div>
+	</div>
+</div>
+<!-- //agile_testimonials -->
+
+
+<!--footer-->
+	<div class="footer w3layouts">
+		<div class="container">
+			<div class="footer-row w3layouts-agile">
+				<div class="col-md-3 footer-grids w3l-agileits">
+					<h6><a href="/">The Sparks Foundation</a></h6>
+					<p class="footer-one-w3ls">We connect students of all financial backgrounds with experts. Knowledge sharing enables equal opportunity for all.</p>
+					<div class="top-header-agile-right">
+						<ul>
+							<li><a target="_blank" href="https://www.facebook.com/thesparksfoundation.info"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+							<li><a target="_blank" href="https://www.linkedin.com/company/the-sparks-foundation/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+							<li><a target="_blank" href="https://medium.com/thesparksfoundation"><i class="fa fa-medium" aria-hidden="true"></i></a></li>
+							<li><a target="_blank" href="https://twitter.com/tsfsingapore"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+							<li><a target="_blank" href="https://thesparksfoundation.info"><i class="fa fa-globe" aria-hidden="true"></i></a></li>
+							<li><a target="_blank" href="https://instagram.com/thesparksfoundation.info"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+						</ul>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				<div class="col-md-3 footer-grids w3l-agileits">
+					<h3>Join Us!</h3>					
+					<ul class="b-nav">
+						<li><a href="/join-us/internship-positions/">GRIP (Internship)</a></li>
+						<li><a href="/join-us/brand-ambassador/">Brand Ambassador</a></li>
+						<li><a href="/join-us/expert-mentor/">Expert Mentor</a></li>
+						<li><a href="/join-us/events-volunteer/">Events Volunteer</a></li>
+						<li><a href="/join-us/management-volunteer/">Management Volunteer</a></li>
+					</ul>
+				</div>
+				<div class="col-md-3 footer-grids w3l-agileits">
+					<h3>Programs</h3>
+					<ul class="b-nav">
+						<li><a href="/programs/student-scholarship-program/">Student Scholarship Program</a></li>
+						<li><a href="/programs/student-mentorship-program/">Student Mentorship Program</a></li>
+						<li><a href="/programs/student-sos-program/">Student SOS Program</a></li>
+						<li><a href="/programs/student-externship-program/">Student Externships Program</a></li>
+						<li><a href="/programs/corporate-programs/">Corporate Programs</a></li>
+					</ul>
+				</div>
+				<div class="col-md-3 footer-grids w3l-agileits">	
+					<h3>Workshops</h3>
+					<ul class="b-nav">
+						<li><a href="/programs/workshops/glimpses-for-kids-workshop/">Glimpses for Kids</a></li>
+						<li><a href="/programs/workshops/links-workshop/">LINKS App</a></li>
+						<li><a href="/programs/workshops/resume-writing-workshop/">Resume Writing</a></li>
+						<li><a href="/programs/workshops/career-choices-workshop/">Career Choices</a></li>
+						<li><a href="/programs/workshops/global-education-choices-workshop/">Global Education Choices</a></li>
+					</ul>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+			<div class="footer-row w3layouts-agile" style="margin-top:30px; padding-top:10px; border-top: 1px solid grey;">
+				<div class="col-md-3 footer-grids w3l-agileits">
+					<h3>Partners</h3>					
+					<ul class="b-nav">
+						<li><a target="_blank" href="https://xaltius.tech">Xaltius</a></li>
+						<li><a target="_blank" href="https://aine.ai">AINE AI</a></li>
+						<li><a target="_blank" href="http://codefor.in">Code for India</a></li>
+					</ul>
+				</div>
+				<div class="col-md-3 footer-grids w3l-agileits">
+					<h3>Jobs</h3>					
+					<ul class="b-nav">
+						<li><a target="_blank" href="https://www.indeedjobs.com/the-sparks-foundation/">Jobs at Indeed Portal</a></li>
+						<li><a target="_blank" href="https://angel.co/the-sparks-foundation/jobs">Jobs at Angel.co Portal</a></li>
+						<li><a target="_blank" href="https://www.techinasia.com/companies/the-sparks-foundation">Jobs at Tech in Asia Portal</a></li>					</ul>
+				</div>
+				<div class="col-md-3 footer-grids w3l-agileits">
+					<h3>Internships</h3>
+					<ul class="b-nav">
+						<li><a target="_blank" href="https://internshala.com/internships/internship-at-The%20Sparks%20Foundation">Internships at Internshala</a></li>
+					</ul>
+				</div>
+				<div class="col-md-3 footer-grids w3l-agileits">	
+					<h3>Websites</h3>
+					<ul class="b-nav">
+						<li><a target="_blank" href="https://thesparksfoundation.info">The Sparks Foundation (Global)</a></li>
+						<li><a target="_blank" href="http://thesparksfoundation.in">The Sparks Foundation (India)</a></li>
+					</ul>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+	</div>
+<!--//footer-->	
+<!-- copy-right -->
+			<div class="copyright-wthree">
+				<p>&copy; 2017 The Sparks Foundation. All Rights Reserved | Design by <a target="_blank" href="http://w3layouts.com/"> W3layouts </a></p>
+			</div>
+<!-- //copy-right -->
+
+	<a href="#home" class="scroll" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+<!-- //smooth scrolling -->
+
+	
+<script type="text/javascript" src="/js/jquery-2.1.4.min.js"></script>
+<!-- flexSlider -->
+							<script defer src="/js/jquery.flexslider.js"></script>
+							<script type="text/javascript">
+							$(window).load(function(){
+							  $('.flexslider').flexslider({
+								animation: "slide",
+								start: function(slider){
+								  $('body').removeClass('loading');
+								}
+							  });
+							});
+						  </script>
+<!-- //flexSlider -->
+<!-- requried-jsfiles-for owl -->
+ <script src="/js/owl.carousel.js"></script>
+							        <script>
+									    $(document).ready(function() {
+									      $("#owl-demo2").owlCarousel({
+									        items : 1,
+									        lazyLoad : false,
+									        autoPlay : true,
+									        navigation : false,
+									        navigationText :  false,
+									        pagination : true,
+									      });
+									    });
+									  </script>
+							 <!-- //requried-jsfiles-for owl -->
+<!-- Countdown-Timer-JavaScript -->
+			<script src="/js/simplyCountdown.js"></script>
+			<script>
+				var d = new Date(new Date().getTime() + 448 * 120 * 120 * 2000);
+
+				// default example
+				simplyCountdown('.simply-countdown-one', {
+					year: d.getFullYear(),
+					month: d.getMonth() + 1,
+					day: d.getDate()
+				});
+
+				// inline example
+				simplyCountdown('.simply-countdown-inline', {
+					year: d.getFullYear(),
+					month: d.getMonth() + 1,
+					day: d.getDate(),
+					inline: true
+				});
+
+				//jQuery example
+				$('#simply-countdown-losange').simplyCountdown({
+					year: d.getFullYear(),
+					month: d.getMonth() + 1,
+					day: d.getDate(),
+					enableUtc: false
+				});
+			</script>
+		<!-- //Countdown-Timer-JavaScript -->
+
+
+<!--search-bar-->
+		<script src="/js/main.js"></script>	
+<!--//search-bar-->
+
+
+ <!-- start-smoth-scrolling -->
+<script type="text/javascript" src="/js/move-top.js"></script>
+<script type="text/javascript" src="/js/easing.js"></script>
+<script type="text/javascript">
+	jQuery(document).ready(function($) {
+		$(".scroll").click(function(event){		
+			event.preventDefault();
+			$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+		});
+	});
+	/*
+	$('ul.nav li.dropdown').hover(function() {
+	if($('div.navbar-left').isVisible()){return;}
+  $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeIn(500);
+}, function() {
+  $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeOut(500);
+});
+*/
+
+</script>
+<!-- start-smoth-scrolling -->
+<!-- here stars scrolling icon -->
+	<script type="text/javascript">
+		$(document).ready(function() {
+			
+			$('#youtube-video').attr('src',"https://www.youtube.com/embed/kgj_0E_urK0?autoplay=0&theme=light&loop=1&disablekb=1&modestbranding=1&hd=1&autohide=0&color=white&controls=0&showinfo=0&showsearch=0&cc_load_policy=1&rel=0");
+								
+			});
+	</script>
+<!-- //here ends scrolling icon -->
+<!--js for bootstrap working-->
+	<script src="/js/bootstrap.js"></script>
+<!-- //for bootstrap working -->
+</body>
+</html>

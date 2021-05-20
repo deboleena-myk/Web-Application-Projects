@@ -1,0 +1,30 @@
+Turnaround time
+Command 	Target 			Value 
+Click	url:www.thesparkfoundation.sg	10.3s
+Click	name=Vision, mission and values	5.6s
+Click	name=Guiding principles		5.6s
+Click	name=Advisors and patrons 	5.6s
+Click	name=Executive team		5.8s
+Click	name=Corporate partners		5.8s
+Click	name=Expert mentors		5.6s
+Click	name=News			5.8s
+Click	name=Policies			6.7s
+Click	name=Code of ethics and conduct	7.4s
+Click	name=Personal data policy	5.6s
+Click	name=Whistle blowing policy	8.6s
+Click	name=Service quality values	6.7s
+Click	name=Student scholarship program6.7s
+Click	name=Student mentorship program	7.8s
+Click	name=Student SOS program	7.8s
+Click	name=Workshops			7.6s
+Click	name=Corporate program		7.6s
+Click	name=Software and app		7.6s
+Click	name=Salient features		7.6s
+Click	name=AI in education		7.6s
+Click	name=Why join us		7.6s
+Click	name=Expert mentors		8.5s
+Click	name=Events volunteers		8.5s
+Click	name=Management volunteer	9.5s
+Click	name=Internship positions	9.5s
+Click 	name=Board ambassador		9.5s
+

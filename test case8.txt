@@ -1,0 +1,12 @@
+Backend coding
+Command 	Target 			Value 
+Type 	url:"/css/bootstrap.css"
+
+Type 	url:"/css/font-awesome.css"
+
+Type	url:“/css/flexslider.css”
+
+Type	url:"/css/owl.carousel.css"
+
+Type	url:"/css/style.css" 
+

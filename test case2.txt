@@ -1,0 +1,5 @@
+Visual design/overall appearance and visual appearance
+Command 	Target          	Value 
+Type	        Five second 	
+Type	        Word choice 	
+Type	        Visual A/B	

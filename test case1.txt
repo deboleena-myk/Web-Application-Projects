@@ -1,0 +1,6 @@
+Web friendly
+Command 	Target 	                                Value 
+Open 		
+assertTitle	Exact:Welcome : The Spark Foundation	
+Click 	        License	
+

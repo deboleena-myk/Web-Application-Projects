@@ -1,0 +1,35 @@
+Speed optimization
+Command 	Target 	Value 
+Click	url:www.thesparkfoundation.sg	0.46m/s
+Click	name=About us	0.23m/s
+Click	name=Policies and code	0.23m/s
+Click	name=Programs	0.23m/s
+Click	name=LINKS	0.43m/s
+Click	name=Join us	0.34m/s
+Click	name=Contact us	0.34m/s
+Click	name=Vision, mission and values	0.23m/s
+Click	name=Guiding principles	0.20m/s
+Click	name=Advisors and patrons 	0.20m/s
+Click	name=Executive team	0.20m/s
+Click	name=Corporate partners	0.20m/s
+Click	name=Expert mentors	0.32m/s
+Click	name=News	0.32m/s
+Click	name=Policies	0.23m/s
+Click	name=Code of ethics and conduct	0.20m/s
+Click	name=Personal data policy	0.20m/s
+Click	name=Whistle blowing policy	0.20m/s
+Click	name=Service quality values	0.20m/s
+Click	name=Student scholarship program	0.32m/s
+Click	name=Student mentorship program	0.32m/s
+Click	name=Student SOS program	0.23m/s
+Click	name=Workshops	0.20m/s
+Click	name=Corporate program	0.20m/s
+Click	name=Software and app	0.20m/s
+Click	name=Salient features	0.20m/s
+Click	name=AI in education	0.32m/s
+Click	name=Why join us	0.32m/s
+Click	name=Expert mentors	0.26m/s
+Click	name=Events volunteers	0.26m/s
+Click	name=Management volunteer	0.26m/s
+Click	name=Internship positions	0.20m/s
+Click	name=Board ambassador	0.23m/s

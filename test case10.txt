@@ -1,0 +1,8 @@
+Branding 
+Command 	Target 		Value 
+Click	name=events	
+Click	name=internship	
+Click	name=mentorship	
+Click	name=support	
+Click	name=scholarship	
+Click	name=community	

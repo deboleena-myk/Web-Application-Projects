@@ -1,0 +1,1508 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta name='viewport' content='width=device-width, initial-scale=1.0' />
+<meta http-equiv='X-UA-Compatible' content='IE=edge' />
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+
+	<!-- This site is optimized with the Yoast SEO plugin v15.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Home - S.P.A.R.K.S. Foundation</title><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Didact%20Gothic%3A400%2C300%2C700%7CLato%3A900%7CChelsea%20Market%3A400%7CChelsea%20Market%3A400%7CLato%3A900&#038;display=swap" /><link rel="stylesheet" href="https://www.sparksfoundation.org/wp-content/cache/min/1/34d7a12adc8f6131dbabfdd66b3d85be.css" media="all" data-minify="1" />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.sparksfoundation.org/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Home - S.P.A.R.K.S. Foundation" />
+	<meta property="og:description" content="INSPIRE YOUNG MINDS THROUGH SCIENCE! MAKE A DONATION We provide quality, inquiry-based science programming to all children regardless of socio-economic status. 2018-2019 school year 0 students received our quality science programs during this current school year, most of which were free of charge. Our programming has positively changed students’ perception of science.  TESTIMONIALS I really liked the&hellip;" />
+	<meta property="og:url" content="https://www.sparksfoundation.org/" />
+	<meta property="og:site_name" content="S.P.A.R.K.S. Foundation" />
+	<meta property="article:modified_time" content="2020-12-02T16:21:11+00:00" />
+	<meta property="og:image" content="https://www.sparksfoundation.org/wp-content/uploads/2018/01/Girl-with-Circuitry-Project-e1531155457979.jpg" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:label1" content="Written by">
+	<meta name="twitter:data1" content="developer">
+	<meta name="twitter:label2" content="Est. reading time">
+	<meta name="twitter:data2" content="2 minutes">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.sparksfoundation.org/#website","url":"https://www.sparksfoundation.org/","name":"S.P.A.R.K.S. Foundation","description":"","potentialAction":[{"@type":"SearchAction","target":"https://www.sparksfoundation.org/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.sparksfoundation.org/#primaryimage","inLanguage":"en-US","url":"https://www.sparksfoundation.org/wp-content/uploads/2018/01/Girl-with-Circuitry-Project-e1531155457979.jpg","width":400,"height":400,"caption":"OLYMPUS DIGITAL CAMERA"},{"@type":"WebPage","@id":"https://www.sparksfoundation.org/#webpage","url":"https://www.sparksfoundation.org/","name":"Home - S.P.A.R.K.S. Foundation","isPartOf":{"@id":"https://www.sparksfoundation.org/#website"},"primaryImageOfPage":{"@id":"https://www.sparksfoundation.org/#primaryimage"},"datePublished":"2018-01-30T14:30:53+00:00","dateModified":"2020-12-02T16:21:11+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.sparksfoundation.org/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="S.P.A.R.K.S. Foundation &raquo; Feed" href="https://www.sparksfoundation.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="S.P.A.R.K.S. Foundation &raquo; Comments Feed" href="https://www.sparksfoundation.org/comments/feed/" />
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	
+
+
+
+
+
+
+<link rel='stylesheet' id='fl-builder-layout-122-css'  href='https://www.sparksfoundation.org/wp-content/uploads/bb-plugin/cache/122-layout.css' media='all' />
+
+<link rel='stylesheet' id='fl-builder-layout-bundle-c1d444c7f386d7800db312d2cb3a9195-css'  href='https://www.sparksfoundation.org/wp-content/uploads/bb-plugin/cache/c1d444c7f386d7800db312d2cb3a9195-layout-bundle.css' media='all' />
+
+
+
+
+
+<script id='jquery-core-js-extra'>
+var uabb = {"ajax_url":"https:\/\/www.sparksfoundation.org\/wp-admin\/admin-ajax.php"};
+</script>
+<script src='https://www.sparksfoundation.org/wp-includes/js/jquery/jquery.js' id='jquery-core-js'></script>
+<script src='https://www.sparksfoundation.org/wp-includes/js/imagesloaded.min.js' id='imagesloaded-js'></script>
+<link rel="https://api.w.org/" href="https://www.sparksfoundation.org/wp-json/" /><link rel="alternate" type="application/json" href="https://www.sparksfoundation.org/wp-json/wp/v2/pages/122" /><meta name="generator" content="WordPress 5.5.3" />
+<link rel='shortlink' href='https://www.sparksfoundation.org/' />
+		<script>
+			var bb_powerpack = {
+				ajaxurl: 'https://www.sparksfoundation.org/wp-admin/admin-ajax.php'
+			};
+		</script>
+		<link rel="icon" href="https://www.sparksfoundation.org/wp-content/uploads/2019/07/cropped-nocrop-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.sparksfoundation.org/wp-content/uploads/2019/07/cropped-nocrop-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.sparksfoundation.org/wp-content/uploads/2019/07/cropped-nocrop-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.sparksfoundation.org/wp-content/uploads/2019/07/cropped-nocrop-1-270x270.png" />
+		<style id="wp-custom-css">
+			.menu-z-layer {
+	position: relative;
+	z-index: 111;
+}
+
+.layout-back {
+		position: relative;
+	z-index: 1;
+}
+
+.custom-header-button a {
+	position: relative;
+	z-index: 111;
+}		</style>
+		</head>
+<body class="home page-template-default page page-id-122 fl-builder fl-theme-builder-header fl-theme-builder-footer fl-framework-bootstrap fl-preset-default fl-full-width fl-search-active" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+<a aria-label="Skip to content" class="fl-screen-reader-text" href="#fl-main-content">Skip to content</a><div class="fl-page">
+	<header class="fl-builder-content fl-builder-content-125 fl-builder-global-templates-locked" data-post-id="125" data-type="header" data-sticky="0" data-sticky-breakpoint="medium" data-shrink="0" data-overlay="0" data-overlay-bg="default" data-shrink-image-height="50px" itemscope="itemscope" itemtype="http://schema.org/WPHeader"><div id="header-fixed" class="fl-row fl-row-full-width fl-row-bg-color fl-node-5a708409de040" data-node="5a708409de040">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5a708409de07e fl-col-group-custom-width" data-node="5a708409de07e">
+			<div class="fl-col fl-node-5a708409de13e fl-col-small" data-node="5a708409de13e">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-uabb-photo fl-node-5a708409de182" data-node="5a708409de182">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-photo
+uabb-photo-align-left uabb-photo-mob-align-left" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="uabb-photo-content ">
+
+				<a href="https://www.sparksfoundation.org/" target="_self"  itemprop="url">
+				<img loading="lazy" width="657" height="75" class="uabb-photo-img wp-image-112 size-full" src="https://www.sparksfoundation.org/wp-content/uploads/2017/12/1.2.png" alt="1.2" itemprop="image" srcset="https://www.sparksfoundation.org/wp-content/uploads/2017/12/1.2.png 657w, https://www.sparksfoundation.org/wp-content/uploads/2017/12/1.2-300x34.png 300w" sizes="(max-width: 657px) 100vw, 657px" />
+
+						</a>
+			</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5a708409de0c0" data-node="5a708409de0c0">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-uabb-advanced-menu fl-node-5a708409de100" data-node="5a708409de100">
+	<div class="fl-module-content fl-node-content">
+			<div class="uabb-creative-menu
+	 uabb-creative-menu-accordion-collapse	uabb-menu-default">
+		<div class="uabb-creative-menu-mobile-toggle-container"><div class="uabb-creative-menu-mobile-toggle hamburger"><div class="uabb-svg-container"><svg version="1.1" class="hamburger-menu" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" viewBox="0 0 50 50">
+<rect class="uabb-hamburger-menu-top" width="50" height="10"/>
+<rect class="uabb-hamburger-menu-middle" y="20" width="50" height="10"/>
+<rect class="uabb-hamburger-menu-bottom" y="40" width="50" height="10"/>
+</svg>
+</div></div></div>			<div class="uabb-clear"></div>
+					<ul id="menu-sticky-nav-menu" class="menu uabb-creative-menu-horizontal uabb-toggle-none"><li id="menu-item-128" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children uabb-has-submenu uabb-creative-menu uabb-cm-style"><div class="uabb-has-submenu-container"><a href="https://www.sparksfoundation.org/support-us/"><span class="menu-item-text">Support Us<span class="uabb-menu-toggle"></span></span></a></div>
+<ul class="sub-menu">
+	<li id="menu-item-317" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/eitc-pa-earned-income-tax-credit/"><span class="menu-item-text">PA EITC Program</span></a></li>
+	<li id="menu-item-318" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/support-us/#amazon-smile"><span class="menu-item-text">Amazon Smile</span></a></li>
+	<li id="menu-item-316" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/support-us/#goodshop"><span class="menu-item-text">GoodShop</span></a></li>
+	<li id="menu-item-319" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/#partners"><span class="menu-item-text">Our Partners</span></a></li>
+</ul>
+</li>
+<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uabb-has-submenu uabb-creative-menu uabb-cm-style"><div class="uabb-has-submenu-container"><a href="https://www.sparksfoundation.org/our-story/"><span class="menu-item-text">Our Story<span class="uabb-menu-toggle"></span></span></a></div>
+<ul class="sub-menu">
+	<li id="menu-item-312" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/our-story/testimonials/"><span class="menu-item-text">What Educators Say About Us</span></a></li>
+</ul>
+</li>
+<li id="menu-item-276" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/our-staff/"><span class="menu-item-text">Our Team</span></a></li>
+<li id="menu-item-305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uabb-has-submenu uabb-creative-menu uabb-cm-style"><div class="uabb-has-submenu-container"><a href="https://www.sparksfoundation.org/our-programs/"><span class="menu-item-text">Our Programs<span class="uabb-menu-toggle"></span></span></a></div>
+<ul class="sub-menu">
+	<li id="menu-item-590" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/our-programs/classroom-visits/"><span class="menu-item-text">Classroom Visitation</span></a></li>
+	<li id="menu-item-599" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/our-programs/school-assemblies/"><span class="menu-item-text">School Assemblies</span></a></li>
+	<li id="menu-item-314" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/our-programs/#scholarship-options"><span class="menu-item-text">Scholarships</span></a></li>
+</ul>
+</li>
+<li id="menu-item-197" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/in-the-news/"><span class="menu-item-text">In The News</span></a></li>
+<li id="menu-item-130" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/contact/"><span class="menu-item-text">Contact Us</span></a></li>
+<li id="menu-item-626" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a href="tel:+1610-816-5047"><span class="menu-item-text"><strong>610-816-5047</strong></span></a></li>
+</ul>	</div>
+
+		</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5a708409de241 fl-col-small fl-visible-desktop-medium" data-node="5a708409de241">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-uabb-button fl-node-5a708409dde51" data-node="5a708409dde51">
+	<div class="fl-module-content fl-node-content">
+		
+<div class="uabb-module-content uabb-button-wrap uabb-creative-button-wrap uabb-button-width-auto uabb-creative-button-width-auto uabb-button-right uabb-creative-button-right uabb-button-reponsive-center uabb-creative-button-reponsive-center">
+			<a href="https://www.sparksfoundation.org/donate" target="_self"  class="uabb-button uabb-creative-button uabb-creative-flat-btn  uabb-none-btn  "  role="button">
+
+							<span class="uabb-button-text uabb-creative-button-text">MAKE A DONATION</span>
+							
+						
+		</a>
+	</div>
+
+
+
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div id="header-top" class="fl-row fl-row-full-width fl-row-bg-photo fl-node-5a708409ddd36" data-node="5a708409ddd36">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5a708409ddd84" data-node="5a708409ddd84">
+			<div class="fl-col fl-node-5a708409dddcb fl-col-has-cols" data-node="5a708409dddcb">
+	<div class="fl-col-content fl-node-content">
+	
+<div class="fl-col-group fl-node-5a708409dde8f fl-col-group-nested fl-col-group-custom-width" data-node="5a708409dde8f">
+			<div class="fl-col fl-node-5a708409ddecd fl-col-small" data-node="5a708409ddecd">
+	<div class="fl-col-content fl-node-content">
+	<div id="header-logo" class="fl-module fl-module-uabb-photo fl-node-5a708409de1c5" data-node="5a708409de1c5">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-photo
+uabb-photo-align-left uabb-photo-mob-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="uabb-photo-content ">
+
+				<a href="https://www.sparksfoundation.org/" target="_self"  itemprop="url">
+				<img loading="lazy" width="366" height="366" class="uabb-photo-img wp-image-98 size-full" src="https://www.sparksfoundation.org/wp-content/uploads/2017/12/nocrop-1.png" alt="logo" itemprop="image" srcset="https://www.sparksfoundation.org/wp-content/uploads/2017/12/nocrop-1.png 366w, https://www.sparksfoundation.org/wp-content/uploads/2017/12/nocrop-1-150x150.png 150w, https://www.sparksfoundation.org/wp-content/uploads/2017/12/nocrop-1-300x300.png 300w" sizes="(max-width: 366px) 100vw, 366px" />
+
+						</a>
+			</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5f74ba51b6166 fl-col-small" data-node="5f74ba51b6166">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-separator fl-node-5f74baba4453e" data-node="5f74baba4453e">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-separator"></div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5a708409ddf48 fl-col-small" data-node="5a708409ddf48">
+	<div class="fl-col-content fl-node-content">
+	<div id="header-logo" class="fl-module fl-module-uabb-photo fl-node-5f64e6aae1d31" data-node="5f64e6aae1d31">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-photo
+uabb-photo-align-left uabb-photo-mob-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="uabb-photo-content ">
+
+				<a href="https://www.guidestar.org/profile/06-1689284" target="_blank" rel="noopener" itemprop="url">
+				<img loading="lazy" width="135" height="135" class="uabb-photo-img wp-image-837 size-full" src="https://www.sparksfoundation.org/wp-content/uploads/2018/01/Guidestar-2020.png" alt="Guidestar 2020" itemprop="image"  />
+
+						</a>
+			</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-uabb-button fl-node-5a708409de203 custom-header-button" data-node="5a708409de203">
+	<div class="fl-module-content fl-node-content">
+		
+<div class="uabb-module-content uabb-button-wrap uabb-creative-button-wrap uabb-button-width-auto uabb-creative-button-width-auto uabb-button-right uabb-creative-button-right uabb-button-reponsive-right uabb-creative-button-reponsive-right">
+			<a href="https://www.sparksfoundation.org/donate" target="_self"  class="uabb-button uabb-creative-button uabb-creative-flat-btn  uabb-none-btn  "  role="button">
+
+							<span class="uabb-button-text uabb-creative-button-text">MAKE A DONATION</span>
+							
+						
+		</a>
+	</div>
+
+
+
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div id="header-nav" class="fl-row fl-row-full-width fl-row-bg-color fl-node-5a708409ddfc4" data-node="5a708409ddfc4">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5a708409de002" data-node="5a708409de002">
+			<div class="fl-col fl-node-5a708409dde12" data-node="5a708409dde12">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-uabb-advanced-menu fl-node-5a708409ddf86 menu-z-layer" data-node="5a708409ddf86">
+	<div class="fl-module-content fl-node-content">
+			<div class="uabb-creative-menu
+	 uabb-creative-menu-accordion-collapse	uabb-menu-default">
+		<div class="uabb-creative-menu-mobile-toggle-container"><div class="uabb-creative-menu-mobile-toggle hamburger"><div class="uabb-svg-container"><svg version="1.1" class="hamburger-menu" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" viewBox="0 0 50 50">
+<rect class="uabb-hamburger-menu-top" width="50" height="10"/>
+<rect class="uabb-hamburger-menu-middle" y="20" width="50" height="10"/>
+<rect class="uabb-hamburger-menu-bottom" y="40" width="50" height="10"/>
+</svg>
+</div></div></div>			<div class="uabb-clear"></div>
+					<ul id="menu-sticky-nav-menu-1" class="menu uabb-creative-menu-horizontal uabb-toggle-arrows"><li id="menu-item-128" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children uabb-has-submenu uabb-creative-menu uabb-cm-style"><div class="uabb-has-submenu-container"><a href="https://www.sparksfoundation.org/support-us/"><span class="menu-item-text">Support Us<span class="uabb-menu-toggle"></span></span></a></div>
+<ul class="sub-menu">
+	<li id="menu-item-317" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/eitc-pa-earned-income-tax-credit/"><span class="menu-item-text">PA EITC Program</span></a></li>
+	<li id="menu-item-318" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/support-us/#amazon-smile"><span class="menu-item-text">Amazon Smile</span></a></li>
+	<li id="menu-item-316" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/support-us/#goodshop"><span class="menu-item-text">GoodShop</span></a></li>
+	<li id="menu-item-319" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/#partners"><span class="menu-item-text">Our Partners</span></a></li>
+</ul>
+</li>
+<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uabb-has-submenu uabb-creative-menu uabb-cm-style"><div class="uabb-has-submenu-container"><a href="https://www.sparksfoundation.org/our-story/"><span class="menu-item-text">Our Story<span class="uabb-menu-toggle"></span></span></a></div>
+<ul class="sub-menu">
+	<li id="menu-item-312" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/our-story/testimonials/"><span class="menu-item-text">What Educators Say About Us</span></a></li>
+</ul>
+</li>
+<li id="menu-item-276" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/our-staff/"><span class="menu-item-text">Our Team</span></a></li>
+<li id="menu-item-305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uabb-has-submenu uabb-creative-menu uabb-cm-style"><div class="uabb-has-submenu-container"><a href="https://www.sparksfoundation.org/our-programs/"><span class="menu-item-text">Our Programs<span class="uabb-menu-toggle"></span></span></a></div>
+<ul class="sub-menu">
+	<li id="menu-item-590" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/our-programs/classroom-visits/"><span class="menu-item-text">Classroom Visitation</span></a></li>
+	<li id="menu-item-599" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/our-programs/school-assemblies/"><span class="menu-item-text">School Assemblies</span></a></li>
+	<li id="menu-item-314" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/our-programs/#scholarship-options"><span class="menu-item-text">Scholarships</span></a></li>
+</ul>
+</li>
+<li id="menu-item-197" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/in-the-news/"><span class="menu-item-text">In The News</span></a></li>
+<li id="menu-item-130" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/contact/"><span class="menu-item-text">Contact Us</span></a></li>
+<li id="menu-item-626" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a href="tel:+1610-816-5047"><span class="menu-item-text"><strong>610-816-5047</strong></span></a></li>
+</ul>	</div>
+
+		</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</header><div class="uabb-js-breakpoint" style="display: none;"></div>	<div id="fl-main-content" class="fl-page-content" itemprop="mainContentOfPage" role="main">
+
+		
+<div class="fl-content-full container">
+	<div class="row">
+		<div class="fl-content col-md-12">
+			<article class="fl-post post-122 page type-page status-publish hentry" id="fl-post-122" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+
+			<div class="fl-post-content clearfix" itemprop="text">
+		<div class="fl-builder-content fl-builder-content-122 fl-builder-content-primary fl-builder-global-templates-locked" data-post-id="122"><div class="fl-row fl-row-full-width fl-row-bg-photo fl-node-5a7087ac23bc0 fl-row-bg-overlay" data-node="5a7087ac23bc0">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5a7087ac2399e" data-node="5a7087ac2399e">
+			<div class="fl-col fl-node-5a7087ac239f0 fl-col-has-cols" data-node="5a7087ac239f0">
+	<div class="fl-col-content fl-node-content">
+	
+<div class="fl-col-group fl-node-5a7087ac23a36 fl-col-group-nested" data-node="5a7087ac23a36">
+	</div>
+
+<div class="fl-col-group fl-node-5a7087ac23a73 fl-col-group-nested" data-node="5a7087ac23a73">
+			<div class="fl-col fl-node-5a7087ac23aaf" data-node="5a7087ac23aaf">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-5bd72da4749df" data-node="5bd72da4749df">
+	<div class="fl-module-content fl-node-content">
+		<h1 class="fl-heading">
+		<span class="fl-heading-text">INSPIRE YOUNG MINDS</span>
+	</h1>
+	</div>
+</div>
+<div class="fl-module fl-module-heading fl-node-5a7087ac23b2a outerglow" data-node="5a7087ac23b2a">
+	<div class="fl-module-content fl-node-content">
+		<h1 class="fl-heading">
+		<span class="fl-heading-text">THROUGH SCIENCE!</span>
+	</h1>
+	</div>
+</div>
+<div class="fl-module fl-module-uabb-button fl-node-5a7087ac23b80" data-node="5a7087ac23b80">
+	<div class="fl-module-content fl-node-content">
+		
+<div class="uabb-module-content uabb-button-wrap uabb-creative-button-wrap uabb-button-width-auto uabb-creative-button-width-auto uabb-button-center uabb-creative-button-center uabb-button-reponsive-center uabb-creative-button-reponsive-center">
+			<a href="https://www.sparksfoundation.org/donate/" target="_self"  class="uabb-button uabb-creative-button uabb-creative-flat-btn  uabb-none-btn  "  role="button">
+
+							<span class="uabb-button-text uabb-creative-button-text">MAKE A DONATION</span>
+							
+						
+		</a>
+	</div>
+
+
+
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5a70873959b47" data-node="5a70873959b47">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5a7087395984f" data-node="5a7087395984f">
+			<div class="fl-col fl-node-5a708739599b5 fl-col-small" data-node="5a708739599b5">
+	<div class="fl-col-content fl-node-content">
+		</div>
+</div>
+			<div class="fl-col fl-node-5a708739598b5 fl-col-small fl-col-has-cols" data-node="5a708739598b5">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-dual-color-heading fl-node-5a7087395991b" data-node="5a7087395991b">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-dual-color-heading center ">
+	<h5 >		<span class="uabb-first-heading-text">We provide quality, inquiry-based science programming</span>
+	
+		<span class="uabb-second-heading-text"> to all children regardless of socio-economic status.</span>
+		</h5></div>
+
+
+	</div>
+</div>
+
+<div class="fl-col-group fl-node-5a70873959964 fl-col-group-nested" data-node="5a70873959964">
+			<div class="fl-col fl-node-5a70873959a0b" data-node="5a70873959a0b">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-info-box fl-node-5a70873959aca" data-node="5a70873959aca">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-infobox infobox-center ">
+	<div class="uabb-infobox-left-right-wrap">
+	<div class="uabb-infobox-content">
+			<div class='uabb-infobox-title-wrap'></div>			<div class="uabb-infobox-text-wrap">
+				<div class="uabb-infobox-text uabb-text-editor"><p>2018-2019 school year</p>
+</div>			</div> 
+					</div>	</div>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-uabb-numbers fl-node-5a70873959a8c" data-node="5a70873959a8c">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-number uabb-number-none-above-title uabb-number-circle">
+	<div class="uabb-number-circle-container">	
+		<div class="uabb-number-text">
+		<h3 class="uabb-number-string"><span class="uabb-number-int">0</span> students</h3>
+		</div>
+		<div class="svg-container"><svg class="svg" viewBox="0 0 125 125" version="1.1" preserveAspectRatio="xMinYMin meet">
+			<circle class="uabb-bar-bg" r="60" cx="62.5" cy="62.5" fill="transparent" stroke-dasharray="376.99" stroke-dashoffset="0"></circle>
+			<circle class="uabb-bar" r="60" cx="62.5" cy="62.5" fill="transparent" stroke-dasharray="376.99" stroke-dashoffset="376.99" transform="rotate(-90.1 62.5 62.5)"></circle>
+		</svg></div>	</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-info-box fl-node-5a70873959b09" data-node="5a70873959b09">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-infobox infobox-center ">
+	<div class="uabb-infobox-left-right-wrap">
+	<div class="uabb-infobox-content">
+			<div class='uabb-infobox-title-wrap'></div>			<div class="uabb-infobox-text-wrap">
+				<div class="uabb-infobox-text uabb-text-editor"><p>received our quality science programs during this current school year, <span style="font-weight: 400;">most of which were</span> free of charge. Our programming has positively changed students’ perception of science. </p>
+</div>			</div> 
+					</div>	</div>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5a70873959a4d fl-col-small" data-node="5a70873959a4d">
+	<div class="fl-col-content fl-node-content">
+		</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5a70b4bfb09cd" data-node="5a70b4bfb09cd">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5a70bd5f8837a" data-node="5a70bd5f8837a">
+			<div class="fl-col fl-node-5a70bd5f8867a" data-node="5a70bd5f8867a">
+	<div class="fl-col-content fl-node-content">
+	<div id="testimonials" class="fl-module fl-module-pp-testimonials fl-node-5a70bd5f8819f" data-node="5a70bd5f8819f">
+	<div class="fl-module-content fl-node-content">
+		
+<div class="pp-testimonials-wrap pp-testimonials-slider">
+				<h2 class="pp-testimonials-heading">TESTIMONIALS</h2>
+	
+	<div class="pp-testimonials">
+		<div class="owl-carousel owl-theme">				<div class="pp-testimonial layout-3 clearfix">
+											<div class="pp-testimonials-image">
+							<img src="https://www.sparksfoundation.org/wp-content/uploads/2018/01/Girl-with-Circuitry-Project-e1531155457979.jpg" alt="OLYMPUS DIGITAL CAMERA" />
+						</div>
+										<div class="layout-3-content pp-content-wrapper">
+																			<div class="pp-testimonials-content"><p>I really liked the experiments we did last year . . . so many cool things! You<br />are making our lives super amazing. I liked learning about electricity, blood<br />cells and a lot more. It is just wrecking me to see how things work in nature.<br />You do not know how amazed I feel! Thank you for the great things you did<br />for my education and for me.</p></div>
+																			<div class="pp-title-wrapper">
+																	<h3 class="pp-testimonials-title">– Temperature Talia</h3>
+																							</div>
+											</div>
+				</div>
+							<div class="pp-testimonial layout-3 clearfix">
+											<div class="pp-testimonials-image">
+							<img src="https://www.sparksfoundation.org/wp-content/uploads/2018/01/Boy-Wearing-Glasses-460x414-460x414.jpeg" alt="Boy Wearing Glasses (460x414) (460x414)" />
+						</div>
+										<div class="layout-3-content pp-content-wrapper">
+																			<div class="pp-testimonials-content"><p>Because of you, now I think science is AMAZING! Now I have so many<br />questions like what chemicals are in the air, and can two chemicals turn<br />into food, but the best question is WHY IS SCIENCE SO AWESOME?! I<br />loved the experiments you did with our class and loved the energy<br />assembly. Who knew you could take a leaf blower and turn it into a<br />hoverboard?</p></div>
+																			<div class="pp-title-wrapper">
+																	<h3 class="pp-testimonials-title">Your friend, Bromine Brian, 4th grader</h3>
+																							</div>
+											</div>
+				</div>
+							<div class="pp-testimonial layout-3 clearfix">
+											<div class="pp-testimonials-image">
+							<img src="https://www.sparksfoundation.org/wp-content/uploads/2017/12/Girl-with-Hands-over-Her-Mouth.jpg" alt="Girl-with-Hands-over-Her-Mouth" />
+						</div>
+										<div class="layout-3-content pp-content-wrapper">
+																			<div class="pp-testimonials-content"><p>My fourth grade class had the pleasure of participating in the science assembly and hands-on classroom instruction. It was my first time seeing the science “magic” happen and watch my students’ reactions while they learned. Thank you for providing such a high quality, fast paced, child friendly program. UGI can feel proud to have sponsored this day!</p></div>
+																			<div class="pp-title-wrapper">
+																	<h3 class="pp-testimonials-title">– Thank you, Judy Martin, Teacher, Washington Elementary School, Lancaster, PA</h3>
+																							</div>
+											</div>
+				</div>
+			</div>	</div><!-- /.pp-testimonials -->
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-uabb-button fl-node-5af31891e4e10" data-node="5af31891e4e10">
+	<div class="fl-module-content fl-node-content">
+		
+<div class="uabb-module-content uabb-button-wrap uabb-creative-button-wrap uabb-button-width-auto uabb-creative-button-width-auto uabb-button-center uabb-creative-button-center uabb-button-reponsive-center uabb-creative-button-reponsive-center uabb-button-has-icon uabb-creative-button-has-icon">
+			<a href="https://www.sparksfoundation.org/our-story/testimonials/" target="_self"  class="uabb-button uabb-creative-button uabb-creative-flat-btn  uabb-none-btn  "  role="button">
+
+							<span class="uabb-button-text uabb-creative-button-text">MORE TESTIMONIALS</span>
+												<i class="uabb-button-icon uabb-creative-button-icon uabb-button-icon-after uabb-creative-button-icon-after fa fa-hand-o-right"></i>
+							
+						
+		</a>
+	</div>
+
+
+
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div id="home-circles" class="fl-row fl-row-full-width fl-row-bg-photo fl-node-5a7087607a9b2 fl-row-bg-overlay" data-node="5a7087607a9b2">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-full-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5a71ca5edc132 fl-col-group-equal-height fl-col-group-align-top" data-node="5a71ca5edc132">
+			<div class="fl-col fl-node-5a71cb9d000cf fl-col-small fl-visible-desktop" data-node="5a71cb9d000cf">
+	<div class="fl-col-content fl-node-content">
+		</div>
+</div>
+			<div class="fl-col fl-node-5a71ca5edc68e fl-col-has-cols" data-node="5a71ca5edc68e">
+	<div class="fl-col-content fl-node-content">
+	
+<div class="fl-col-group fl-node-5a71caa6c15a0 fl-col-group-nested" data-node="5a71caa6c15a0">
+			<div class="fl-col fl-node-5a71caa6c1911" data-node="5a71caa6c1911">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-uabb-heading fl-node-5a71c97039ea7" data-node="5a71c97039ea7">
+	<div class="fl-module-content fl-node-content">
+		
+<div class="uabb-module-content uabb-heading-wrapper uabb-heading-align-center ">
+
+	
+	<h3 class="uabb-heading">
+				<span class="uabb-heading-text">MORE ABOUT S.P.A.R.K.S.</span>
+			</h3>
+
+	
+	
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-5ac39ea804476 fl-col-group-nested" data-node="5ac39ea804476">
+			<div class="fl-col fl-node-5ac39ea8048ff fl-col-small" data-node="5ac39ea8048ff">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-ihover fl-node-5a71ee110ec29" data-node="5a71ee110ec29">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-ih-container">
+	<ul data-height="220" data-width="220" data-shape="circle" class="uabb-ih-list uabb-align-right">
+										<li class="uabb-ih-list-item uabb-ih-item-0">
+														<a target="" rel="nofollow" href="https://www.sparksfoundation.org/our-programs/" class="uabb-ih-link">
+															<div class="uabb-ih-item uabb-ih-effect3 uabb-ih-right_to_left  uabb-ih-circle" >
+				<div class="uabb-ih-image-block">
+					<div class="uabb-ih-wrapper"></div>
+											<img src="https://www.sparksfoundation.org/wp-content/uploads/2018/01/what2.png" alt="" class="uabb-ih-image">				</div>
+															<div class="uabb-ih-info uabb-hidden-box">
+					<div class="uabb-ih-info-back">
+						<div class="uabb-ih-content">
+							<div style="" class="uabb-ih-heading-block">
+																		</div>
+							<div class="uabb-ih-divider-block">
+								<span class="uabb-ih-line"></span>
+							</div>
+							<div class="uabb-ih-description-block">
+								<div class="uabb-ih-description uabb-text-editor"><p><span style="font-weight: 400;">We provide experiential STEM (Science, Technology, Engineering &amp; Math) opportunities to elementary-grade students to encourage a love of science and positive attitudes about STEM careers.</span></p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+														</div>
+														</a>
+														</li>
+													</ul>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5ac39ea804954 fl-col-small" data-node="5ac39ea804954">
+	<div class="fl-col-content fl-node-content">
+	<div id="who" class="fl-module fl-module-ihover fl-node-5a71ee2632084 who" data-node="5a71ee2632084">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-ih-container">
+	<ul data-height="220" data-width="220" data-shape="circle" class="uabb-ih-list uabb-align-left">
+										<li class="uabb-ih-list-item uabb-ih-item-0">
+														<a target="" rel="nofollow" href="https://www.sparksfoundation.org/our-staff/" class="uabb-ih-link">
+															<div class="uabb-ih-item uabb-ih-effect3 uabb-ih-left_to_right  uabb-ih-circle" >
+				<div class="uabb-ih-image-block">
+					<div class="uabb-ih-wrapper"></div>
+											<img src="https://www.sparksfoundation.org/wp-content/uploads/2018/01/who2.png" alt="" class="uabb-ih-image">				</div>
+															<div class="uabb-ih-info uabb-hidden-box">
+					<div class="uabb-ih-info-back">
+						<div class="uabb-ih-content">
+							<div style="" class="uabb-ih-heading-block">
+																		</div>
+							<div class="uabb-ih-divider-block">
+								<span class="uabb-ih-line"></span>
+							</div>
+							<div class="uabb-ih-description-block">
+								<div class="uabb-ih-description uabb-text-editor"><div>We are a 501c3 nonprofit STEM (Science, Technology, Engineering &amp; Math) education organization. <span style="font-weight: 400;">With the help of our contributors, we provide hands-on STEM learning opportunities to young students through our high-quality outreach programs</span></div></div>
+							</div>
+						</div>
+					</div>
+				</div>
+														</div>
+														</a>
+														</li>
+													</ul>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-5ac39eacbef15 fl-col-group-nested" data-node="5ac39eacbef15">
+			<div class="fl-col fl-node-5ac3a037953a0 fl-col-small" data-node="5ac3a037953a0">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-ihover fl-node-5a70dbd7605da" data-node="5a70dbd7605da">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-ih-container">
+	<ul data-height="220" data-width="220" data-shape="circle" class="uabb-ih-list uabb-align-right">
+										<li class="uabb-ih-list-item uabb-ih-item-0">
+														<a target="" rel="nofollow" href="https://www.sparksfoundation.org/our-story/#why-we-teach" class="uabb-ih-link">
+															<div class="uabb-ih-item uabb-ih-effect3 uabb-ih-right_to_left  uabb-ih-circle" >
+				<div class="uabb-ih-image-block">
+					<div class="uabb-ih-wrapper"></div>
+											<img src="https://www.sparksfoundation.org/wp-content/uploads/2018/01/why2.png" alt="" class="uabb-ih-image">				</div>
+															<div class="uabb-ih-info uabb-hidden-box">
+					<div class="uabb-ih-info-back">
+						<div class="uabb-ih-content">
+							<div style="" class="uabb-ih-heading-block">
+																		</div>
+							<div class="uabb-ih-divider-block">
+								<span class="uabb-ih-line"></span>
+							</div>
+							<div class="uabb-ih-description-block">
+								<div class="uabb-ih-description uabb-text-editor"><p><span style="font-weight: 400;">We help fill the need for hands-on STEM programs in our schools and beyond the classroom. Every child should have the opportunity to access this type of education, which builds skills in critical thinking and problem-solving.</span></p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+														</div>
+														</a>
+														</li>
+													</ul>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5ac39eacbf435 fl-col-small" data-node="5ac39eacbf435">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-ihover fl-node-5a70dbda1f7e8" data-node="5a70dbda1f7e8">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-ih-container">
+	<ul data-height="220" data-width="220" data-shape="circle" class="uabb-ih-list uabb-align-left">
+										<li class="uabb-ih-list-item uabb-ih-item-0">
+														<a target="" rel="nofollow" href="https://www.sparksfoundation.org/our-programs/#location" class="uabb-ih-link">
+															<div class="uabb-ih-item uabb-ih-effect3 uabb-ih-left_to_right  uabb-ih-circle" >
+				<div class="uabb-ih-image-block">
+					<div class="uabb-ih-wrapper"></div>
+											<img src="https://www.sparksfoundation.org/wp-content/uploads/2018/01/where2.png" alt="" class="uabb-ih-image">				</div>
+															<div class="uabb-ih-info uabb-hidden-box">
+					<div class="uabb-ih-info-back">
+						<div class="uabb-ih-content">
+							<div style="" class="uabb-ih-heading-block">
+																		</div>
+							<div class="uabb-ih-divider-block">
+								<span class="uabb-ih-line"></span>
+							</div>
+							<div class="uabb-ih-description-block">
+								<div class="uabb-ih-description uabb-text-editor"><p><span style="font-weight: 400;">We are a Pennsylvania-based organization and provide the majority of our programs at locations throughout the state but also travel to other states if requested.</span></p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+														</div>
+														</a>
+														</li>
+													</ul>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+<div class="fl-module fl-module-uabb-button fl-node-5a71f096c6fdb" data-node="5a71f096c6fdb">
+	<div class="fl-module-content fl-node-content">
+		
+<div class="uabb-module-content uabb-button-wrap uabb-creative-button-wrap uabb-button-width-auto uabb-creative-button-width-auto uabb-button-center uabb-creative-button-center uabb-button-reponsive-center uabb-creative-button-reponsive-center uabb-button-has-icon uabb-creative-button-has-icon">
+			<a href="https://www.sparksfoundation.org/our-story" target="_self"  class="uabb-button uabb-creative-button uabb-creative-flat-btn  uabb-none-btn  "  role="button">
+
+							<span class="uabb-button-text uabb-creative-button-text">READ OUR STORY</span>
+												<i class="uabb-button-icon uabb-creative-button-icon uabb-button-icon-after uabb-creative-button-icon-after fa fa-hand-o-right"></i>
+							
+						
+		</a>
+	</div>
+
+
+
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5a71cba03671f fl-col-small fl-visible-desktop" data-node="5a71cba03671f">
+	<div class="fl-col-content fl-node-content">
+		</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div id="bubbles-row" class="fl-row fl-row-full-width fl-row-bg-color fl-node-5a7087787d46a" data-node="5a7087787d46a">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5a7087787cfff" data-node="5a7087787cfff">
+			<div class="fl-col fl-node-5a7087787d056" data-node="5a7087787d056">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-uabb-heading fl-node-5a7087787d0ac" data-node="5a7087787d0ac">
+	<div class="fl-module-content fl-node-content">
+		
+<div class="uabb-module-content uabb-heading-wrapper uabb-heading-align-center ">
+
+	
+	<h3 class="uabb-heading">
+				<span class="uabb-heading-text">LEAVE AN IMPRINT</span>
+			</h3>
+
+	
+	
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-5a70ccbb6bcd7" data-node="5a70ccbb6bcd7">
+			<div class="fl-col fl-node-5ac39ff00316e fl-col-small" data-node="5ac39ff00316e">
+	<div class="fl-col-content fl-node-content">
+		</div>
+</div>
+			<div class="fl-col fl-node-5a70ccbb6c599 fl-col-small" data-node="5a70ccbb6c599">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-uabb-photo fl-node-5a71fb6f1f0ca" data-node="5a71fb6f1f0ca">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-photo
+uabb-photo-align-center uabb-photo-mob-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="uabb-photo-content ">
+
+				<a href="https://www.sparksfoundation.org/support-us" target="_self"  itemprop="url">
+				<img loading="lazy" width="300" height="300" class="uabb-photo-img wp-image-150 size-full" src="https://www.sparksfoundation.org/wp-content/uploads/2018/01/handshake-1.png" alt="handshake" itemprop="image" srcset="https://www.sparksfoundation.org/wp-content/uploads/2018/01/handshake-1.png 300w, https://www.sparksfoundation.org/wp-content/uploads/2018/01/handshake-1-150x150.png 150w" sizes="(max-width: 300px) 100vw, 300px" />
+
+						</a>
+			</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-info-box fl-node-5a7087787d2f6" data-node="5a7087787d2f6">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-infobox infobox-center ">
+	<div class="uabb-infobox-left-right-wrap">
+	<div class="uabb-infobox-content">
+			<div class='uabb-infobox-title-wrap'></div>			<div class="uabb-infobox-text-wrap">
+				<div class="uabb-infobox-text uabb-text-editor"></div><a href="https://www.sparksfoundation.org/support-us" target="_self"  class="uabb-infobox-cta-link">PARTNER</a>			</div> 
+					</div>	</div>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5a70ccbb6c611 fl-col-small" data-node="5a70ccbb6c611">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-uabb-photo fl-node-5a71fab09473b" data-node="5a71fab09473b">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-photo
+uabb-photo-align-center uabb-photo-mob-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="uabb-photo-content ">
+
+				<a href="https://www.sparksfoundation.org/donate" target="_self"  itemprop="url">
+				<img loading="lazy" width="300" height="300" class="uabb-photo-img wp-image-133 size-full" src="https://www.sparksfoundation.org/wp-content/uploads/2018/01/donate.png" alt="donate" itemprop="image" srcset="https://www.sparksfoundation.org/wp-content/uploads/2018/01/donate.png 300w, https://www.sparksfoundation.org/wp-content/uploads/2018/01/donate-150x150.png 150w" sizes="(max-width: 300px) 100vw, 300px" />
+
+						</a>
+			</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-info-box fl-node-5c866c5f4e187" data-node="5c866c5f4e187">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-infobox infobox-center ">
+	<div class="uabb-infobox-left-right-wrap">
+	<div class="uabb-infobox-content">
+			<div class='uabb-infobox-title-wrap'></div>			<div class="uabb-infobox-text-wrap">
+				<div class="uabb-infobox-text uabb-text-editor"></div><a href="https://www.sparksfoundation.org/support-us" target="_self"  class="uabb-infobox-cta-link">DONATE</a>			</div> 
+					</div>	</div>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5a70ccbb6c65c fl-col-small" data-node="5a70ccbb6c65c">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-uabb-photo fl-node-5a71fb7855c01" data-node="5a71fb7855c01">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-photo
+uabb-photo-align-center uabb-photo-mob-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="uabb-photo-content ">
+
+				<a href="https://www.sparksfoundation.org/support-us" target="_self"  itemprop="url">
+				<img loading="lazy" width="300" height="300" class="uabb-photo-img wp-image-131 size-full" src="https://www.sparksfoundation.org/wp-content/uploads/2018/01/adopt.png" alt="adopt" itemprop="image" srcset="https://www.sparksfoundation.org/wp-content/uploads/2018/01/adopt.png 300w, https://www.sparksfoundation.org/wp-content/uploads/2018/01/adopt-150x150.png 150w" sizes="(max-width: 300px) 100vw, 300px" />
+
+						</a>
+			</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-info-box fl-node-5a71efa4af874" data-node="5a71efa4af874">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-infobox infobox-center ">
+	<div class="uabb-infobox-left-right-wrap">
+	<div class="uabb-infobox-content">
+			<div class='uabb-infobox-title-wrap'></div>			<div class="uabb-infobox-text-wrap">
+				<div class="uabb-infobox-text uabb-text-editor"></div><a href="https://www.sparksfoundation.org/support-us" target="_self"  class="uabb-infobox-cta-link">ADOPT</a>			</div> 
+					</div>	</div>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5ac39ffc826a6 fl-col-small" data-node="5ac39ffc826a6">
+	<div class="fl-col-content fl-node-content">
+		</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div id="partners" class="fl-row fl-row-full-width fl-row-bg-none fl-node-5a70878314fed" data-node="5a70878314fed">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5a70878328474" data-node="5a70878328474">
+			<div class="fl-col fl-node-5a70878328758 fl-col-small" data-node="5a70878328758">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-pp-animated-headlines fl-node-5a70d494c2a22" data-node="5a70d494c2a22">
+	<div class="fl-module-content fl-node-content">
+		<div class="pp-animated-headlines pp-headline--style-highlight pp-headline-loop">
+	<h3 class="pp-headline pp-headline-center">
+		
+				
+					<span class="pp-headline-dynamic-wrapper pp-headline-text-wrapper"></span>
+		
+					<span class="pp-headline-plain-text pp-headline-text-wrapper">OUR COMMUNITY OF GIVERS</span>
+			</h3>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-uabb-button fl-node-5a71f0318e78b" data-node="5a71f0318e78b">
+	<div class="fl-module-content fl-node-content">
+		
+<div class="uabb-module-content uabb-button-wrap uabb-creative-button-wrap uabb-button-width-auto uabb-creative-button-width-auto uabb-button-center uabb-creative-button-center uabb-button-reponsive-center uabb-creative-button-reponsive-center uabb-button-has-icon uabb-creative-button-has-icon">
+			<a href="https://www.sparksfoundation.org/support-us" target="_self"  class="uabb-button uabb-creative-button uabb-creative-flat-btn  uabb-none-btn  "  role="button">
+
+							<span class="uabb-button-text uabb-creative-button-text">BECOME A PARTNER</span>
+												<i class="uabb-button-icon uabb-creative-button-icon uabb-button-icon-after uabb-creative-button-icon-after fa fa-hand-o-right"></i>
+							
+						
+		</a>
+	</div>
+
+
+
+	</div>
+</div>
+<div class="fl-module fl-module-uabb-button fl-node-5f64d59f8a489" data-node="5f64d59f8a489">
+	<div class="fl-module-content fl-node-content">
+		
+<div class="uabb-module-content uabb-button-wrap uabb-creative-button-wrap uabb-button-width-auto uabb-creative-button-width-auto uabb-button-center uabb-creative-button-center uabb-button-reponsive-center uabb-creative-button-reponsive-center">
+			<a href="<a href=" target="_blank" rel="noopener nofollow" class="uabb-button uabb-creative-button uabb-creative-flat-btn  uabb-none-btn  "  role="button">
+
+							<span class="uabb-button-text uabb-creative-button-text">GuideStar Platinum Status</span>
+							
+						
+		</a>
+	</div>
+
+
+
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5ac3a06e4b760 fl-col-small" data-node="5ac3a06e4b760">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-photo-gallery fl-node-5a70ce1519810" data-node="5a70ce1519810">
+	<div class="fl-module-content fl-node-content">
+			<div class="uabb-module-content uabb-photo-gallery uabb-gallery-grid5 zoom-in " data-all-filters=[] >
+		<div class="uabb-photo-gallery-item  uabb-photo-item-grid">
+			<div class="uabb-photo-gallery-content uabb-photo-gallery-link">	
+
+																																																	<a href="https://www.sparksfoundation.org/wp-content/uploads/2020/10/Fleetwood-Bank.png" target="_blank" rel="noopener nofollow" data-caption="Washington Elementary in Boyertown">
+				
+				<img class="uabb-gallery-img" src="https://www.sparksfoundation.org/wp-content/uploads/2020/10/Fleetwood-Bank.png" alt="" />
+																												<!-- Overlay Wrapper -->
+					<div class="uabb-background-mask zoom-in">
+						<div class="uabb-inner-mask">
+
+																									
+																									
+						</div>
+					</div> <!-- Overlay Wrapper Closed -->
+				
+																											</a>
+				    
+																										</div>
+																									</div>
+																								<div class="uabb-photo-gallery-item  uabb-photo-item-grid">
+			<div class="uabb-photo-gallery-content uabb-photo-gallery-link">	
+
+																																																	<a href="https://www.sparksfoundation.org/wp-content/uploads/2020/10/Clark-Charitable-Foundation.jpg" target="_blank" rel="noopener nofollow" data-caption="Pequea Valley Elementary Schools">
+				
+				<img class="uabb-gallery-img" src="https://www.sparksfoundation.org/wp-content/uploads/2020/10/Clark-Charitable-Foundation-300x78.jpg" alt="" />
+																												<!-- Overlay Wrapper -->
+					<div class="uabb-background-mask zoom-in">
+						<div class="uabb-inner-mask">
+
+																									
+																									
+						</div>
+					</div> <!-- Overlay Wrapper Closed -->
+				
+																											</a>
+				    
+																										</div>
+																									</div>
+																								<div class="uabb-photo-gallery-item  uabb-photo-item-grid">
+			<div class="uabb-photo-gallery-content uabb-photo-gallery-link">	
+
+																																																	<a href="https://www.sparksfoundation.org/wp-content/uploads/2019/10/ExtraGive-LCF_2019EG_CBO_Websafe.jpg" target="_blank" rel="noopener nofollow" data-caption="">
+				
+				<img class="uabb-gallery-img" src="https://www.sparksfoundation.org/wp-content/uploads/2019/10/ExtraGive-LCF_2019EG_CBO_Websafe-300x300.jpg" alt="" />
+																												<!-- Overlay Wrapper -->
+					<div class="uabb-background-mask zoom-in">
+						<div class="uabb-inner-mask">
+
+																									
+																									
+						</div>
+					</div> <!-- Overlay Wrapper Closed -->
+				
+																											</a>
+				    
+																										</div>
+																									</div>
+																								<div class="uabb-photo-gallery-item  uabb-photo-item-grid">
+			<div class="uabb-photo-gallery-content uabb-photo-gallery-link">	
+
+																																																	<a href="https://www.ametek.com/" target="_blank" rel="noopener nofollow" data-caption="">
+				
+				<img class="uabb-gallery-img" src="https://www.sparksfoundation.org/wp-content/uploads/2018/01/Artboard-16-e1531155656173.png" alt="" />
+																												<!-- Overlay Wrapper -->
+					<div class="uabb-background-mask zoom-in">
+						<div class="uabb-inner-mask">
+
+																									
+																									
+						</div>
+					</div> <!-- Overlay Wrapper Closed -->
+				
+																											</a>
+				    
+																										</div>
+																									</div>
+																								<div class="uabb-photo-gallery-item  uabb-photo-item-grid">
+			<div class="uabb-photo-gallery-content uabb-photo-gallery-link">	
+
+																																																	<a href="https://www.sparksfoundation.org/wp-content/uploads/2020/09/Thermo-Fisher-Scientific-1.png" target="_blank" rel="noopener nofollow" data-caption="Harrisburg Elementary Schools">
+				
+				<img class="uabb-gallery-img" src="https://www.sparksfoundation.org/wp-content/uploads/2020/09/Thermo-Fisher-Scientific-1.png" alt="" />
+																												<!-- Overlay Wrapper -->
+					<div class="uabb-background-mask zoom-in">
+						<div class="uabb-inner-mask">
+
+																									
+																									
+						</div>
+					</div> <!-- Overlay Wrapper Closed -->
+				
+																											</a>
+				    
+																										</div>
+																									</div>
+																								<div class="uabb-photo-gallery-item  uabb-photo-item-grid">
+			<div class="uabb-photo-gallery-content uabb-photo-gallery-link">	
+
+																																																	<a href="https://www.ugi.com/" target="_blank" rel="noopener nofollow" data-caption="">
+				
+				<img class="uabb-gallery-img" src="https://www.sparksfoundation.org/wp-content/uploads/2018/01/Artboard-15-e1531155665880.png" alt="" />
+																												<!-- Overlay Wrapper -->
+					<div class="uabb-background-mask zoom-in">
+						<div class="uabb-inner-mask">
+
+																									
+																									
+						</div>
+					</div> <!-- Overlay Wrapper Closed -->
+				
+																											</a>
+				    
+																										</div>
+																									</div>
+																								<div class="uabb-photo-gallery-item  uabb-photo-item-grid">
+			<div class="uabb-photo-gallery-content uabb-photo-gallery-link">	
+
+																																																	<a href="https://www.epnb.com/" target="_blank" rel="noopener nofollow" data-caption="">
+				
+				<img class="uabb-gallery-img" src="https://www.sparksfoundation.org/wp-content/uploads/2018/01/Artboard-13-e1531155684418.png" alt="" />
+																												<!-- Overlay Wrapper -->
+					<div class="uabb-background-mask zoom-in">
+						<div class="uabb-inner-mask">
+
+																									
+																									
+						</div>
+					</div> <!-- Overlay Wrapper Closed -->
+				
+																											</a>
+				    
+																										</div>
+																									</div>
+																								<div class="uabb-photo-gallery-item  uabb-photo-item-grid">
+			<div class="uabb-photo-gallery-content uabb-photo-gallery-link">	
+
+																																																	<a href="http://www.eastpennmanufacturing.com/" target="_blank" rel="noopener nofollow" data-caption="">
+				
+				<img class="uabb-gallery-img" src="https://www.sparksfoundation.org/wp-content/uploads/2018/01/Artboard-11.png" alt="" />
+																												<!-- Overlay Wrapper -->
+					<div class="uabb-background-mask zoom-in">
+						<div class="uabb-inner-mask">
+
+																									
+																									
+						</div>
+					</div> <!-- Overlay Wrapper Closed -->
+				
+																											</a>
+				    
+																										</div>
+																									</div>
+																								<div class="uabb-photo-gallery-item  uabb-photo-item-grid">
+			<div class="uabb-photo-gallery-content uabb-photo-gallery-link">	
+
+																																																	<a href="https://www.cartech.com/" target="_blank" rel="noopener nofollow" data-caption="">
+				
+				<img class="uabb-gallery-img" src="https://www.sparksfoundation.org/wp-content/uploads/2018/01/Artboard-10-e1531155695919.png" alt="" />
+																												<!-- Overlay Wrapper -->
+					<div class="uabb-background-mask zoom-in">
+						<div class="uabb-inner-mask">
+
+																									
+																									
+						</div>
+					</div> <!-- Overlay Wrapper Closed -->
+				
+																											</a>
+				    
+																										</div>
+																									</div>
+																								<div class="uabb-photo-gallery-item  uabb-photo-item-grid">
+			<div class="uabb-photo-gallery-content uabb-photo-gallery-link">	
+
+																																																	<a href="https://bccf.org/" target="_blank" rel="noopener nofollow" data-caption="">
+				
+				<img class="uabb-gallery-img" src="https://www.sparksfoundation.org/wp-content/uploads/2018/01/Artboard-9-e1531155578386.png" alt="" />
+																												<!-- Overlay Wrapper -->
+					<div class="uabb-background-mask zoom-in">
+						<div class="uabb-inner-mask">
+
+																									
+																									
+						</div>
+					</div> <!-- Overlay Wrapper Closed -->
+				
+																											</a>
+				    
+																										</div>
+																									</div>
+																								<div class="uabb-photo-gallery-item  uabb-photo-item-grid">
+			<div class="uabb-photo-gallery-content uabb-photo-gallery-link">	
+
+																																																	<a href="http://seccra.org/" target="_blank" rel="noopener nofollow" data-caption="">
+				
+				<img class="uabb-gallery-img" src="https://www.sparksfoundation.org/wp-content/uploads/2018/01/Artboard-8-e1531155705149.png" alt="" />
+																												<!-- Overlay Wrapper -->
+					<div class="uabb-background-mask zoom-in">
+						<div class="uabb-inner-mask">
+
+																									
+																									
+						</div>
+					</div> <!-- Overlay Wrapper Closed -->
+				
+																											</a>
+				    
+																										</div>
+																									</div>
+																								<div class="uabb-photo-gallery-item  uabb-photo-item-grid">
+			<div class="uabb-photo-gallery-content uabb-photo-gallery-link">	
+
+																																																	<a href="http://www.chestercountyswa.org/" target="_blank" rel="noopener nofollow" data-caption="">
+				
+				<img class="uabb-gallery-img" src="https://www.sparksfoundation.org/wp-content/uploads/2018/01/Artboard-6-1-e1531155646636.png" alt="" />
+																												<!-- Overlay Wrapper -->
+					<div class="uabb-background-mask zoom-in">
+						<div class="uabb-inner-mask">
+
+																									
+																									
+						</div>
+					</div> <!-- Overlay Wrapper Closed -->
+				
+																											</a>
+				    
+																										</div>
+																									</div>
+																								<div class="uabb-photo-gallery-item  uabb-photo-item-grid">
+			<div class="uabb-photo-gallery-content uabb-photo-gallery-link">	
+
+																																																	<a href="https://www.sparksfoundation.org/wp-content/uploads/2019/03/Logo-HIGH-Industries-stand-color-2.jpg" target="_blank" rel="noopener nofollow" data-caption="">
+				
+				<img class="uabb-gallery-img" src="https://www.sparksfoundation.org/wp-content/uploads/2019/03/Logo-HIGH-Industries-stand-color-2-300x64.jpg" alt="" />
+																												<!-- Overlay Wrapper -->
+					<div class="uabb-background-mask zoom-in">
+						<div class="uabb-inner-mask">
+
+																									
+																									
+						</div>
+					</div> <!-- Overlay Wrapper Closed -->
+				
+																											</a>
+				    
+																										</div>
+																									</div>
+																								<div class="uabb-photo-gallery-item  uabb-photo-item-grid">
+			<div class="uabb-photo-gallery-content uabb-photo-gallery-link">	
+
+																																																	<a href="http://www.jpmascaro.com/" target="_blank" rel="noopener nofollow" data-caption="">
+				
+				<img class="uabb-gallery-img" src="https://www.sparksfoundation.org/wp-content/uploads/2018/01/Artboard-12-e1531155610874.png" alt="" />
+																												<!-- Overlay Wrapper -->
+					<div class="uabb-background-mask zoom-in">
+						<div class="uabb-inner-mask">
+
+																									
+																									
+						</div>
+					</div> <!-- Overlay Wrapper Closed -->
+				
+																											</a>
+				    
+																										</div>
+																									</div>
+																								<div class="uabb-photo-gallery-item  uabb-photo-item-grid">
+			<div class="uabb-photo-gallery-content uabb-photo-gallery-link">	
+
+																																																	<a href="https://www.sparksfoundation.org/wp-content/uploads/2018/05/valassis.jpg" target="_blank" rel="noopener nofollow" data-caption="">
+				
+				<img class="uabb-gallery-img" src="https://www.sparksfoundation.org/wp-content/uploads/2018/05/valassis-300x300.jpg" alt="" />
+																												<!-- Overlay Wrapper -->
+					<div class="uabb-background-mask zoom-in">
+						<div class="uabb-inner-mask">
+
+																									
+																									
+						</div>
+					</div> <!-- Overlay Wrapper Closed -->
+				
+																											</a>
+				    
+																										</div>
+																									</div>
+																								<div class="uabb-photo-gallery-item  uabb-photo-item-grid">
+			<div class="uabb-photo-gallery-content uabb-photo-gallery-link">	
+
+																																																	<a href="https://www.sparksfoundation.org/wp-content/uploads/2019/10/Logo-Avalon-Insurance.png" target="_blank" rel="noopener nofollow" data-caption="">
+				
+				<img class="uabb-gallery-img" src="https://www.sparksfoundation.org/wp-content/uploads/2019/10/Logo-Avalon-Insurance.png" alt="" />
+																												<!-- Overlay Wrapper -->
+					<div class="uabb-background-mask zoom-in">
+						<div class="uabb-inner-mask">
+
+																									
+																									
+						</div>
+					</div> <!-- Overlay Wrapper Closed -->
+				
+																											</a>
+				    
+																										</div>
+																									</div>
+																								<div class="uabb-photo-gallery-item  uabb-photo-item-grid">
+			<div class="uabb-photo-gallery-content uabb-photo-gallery-link">	
+
+																																																	<a href="https://www.sparksfoundation.org/wp-content/uploads/2018/12/PPL-Logo-Color.png" target="_blank" rel="noopener nofollow" data-caption="">
+				
+				<img class="uabb-gallery-img" src="https://www.sparksfoundation.org/wp-content/uploads/2018/12/PPL-Logo-Color.png" alt="" />
+																												<!-- Overlay Wrapper -->
+					<div class="uabb-background-mask zoom-in">
+						<div class="uabb-inner-mask">
+
+																									
+																									
+						</div>
+					</div> <!-- Overlay Wrapper Closed -->
+				
+																											</a>
+				    
+																										</div>
+																									</div>
+																								<div class="uabb-photo-gallery-item  uabb-photo-item-grid">
+			<div class="uabb-photo-gallery-content uabb-photo-gallery-link">	
+
+																																																	<a href="https://www.sparksfoundation.org/wp-content/uploads/2020/12/KMZ-Motorsports.jpg" target="_blank" rel="noopener nofollow" data-caption="">
+				
+				<img class="uabb-gallery-img" src="https://www.sparksfoundation.org/wp-content/uploads/2020/12/KMZ-Motorsports.jpg" alt="" />
+																												<!-- Overlay Wrapper -->
+					<div class="uabb-background-mask zoom-in">
+						<div class="uabb-inner-mask">
+
+																									
+																									
+						</div>
+					</div> <!-- Overlay Wrapper Closed -->
+				
+																											</a>
+				    
+																										</div>
+																									</div>
+																							</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5b16d574b7564" data-node="5b16d574b7564">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5b16d574d6b23" data-node="5b16d574d6b23">
+			<div class="fl-col fl-node-5b16d574d7221" data-node="5b16d574d7221">
+	<div class="fl-col-content fl-node-content">
+		</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</div><div class="uabb-js-breakpoint" style="display: none;"></div>	</div><!-- .fl-post-content -->
+	
+</article>
+
+<!-- .fl-post -->
+		</div>
+	</div>
+</div>
+
+
+	</div><!-- .fl-page-content -->
+	<footer class="fl-builder-content fl-builder-content-126 fl-builder-global-templates-locked" data-post-id="126" data-type="footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter"><div class="fl-row fl-row-full-width fl-row-bg-photo fl-node-5a70842fd2674" data-node="5a70842fd2674">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5a70842fd28a3 fl-col-group-equal-height fl-col-group-align-top" data-node="5a70842fd28a3">
+			<div class="fl-col fl-node-5a70b55471d9d fl-col-small" data-node="5a70b55471d9d">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-info-box fl-node-5a70842fd2863" data-node="5a70842fd2863">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-infobox infobox-center ">
+	<div class="uabb-infobox-left-right-wrap">
+	<div class="uabb-infobox-content">
+			<div class='uabb-infobox-title-wrap'><h3 class="uabb-infobox-title">GET IN TOUCH</h3></div>			<div class="uabb-infobox-text-wrap">
+				<div class="uabb-infobox-text uabb-text-editor"><p><a href="tel:+1610-816-5047">610-816-5047</a> / Toll Free: <a href="tel:+1877-870-9517">877-870-9517</a><br />110 W. Wyomissing Ave., Mohnton, PA 19540<br /><a href="rbhatt@sparksfoundation.org">rbhatt@sparksfoundation.org</a></p>
+</div>			</div> 
+					</div>	</div>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-pp-social-icons fl-node-5a70842fd27e6" data-node="5a70842fd27e6">
+	<div class="fl-module-content fl-node-content">
+		<div class="pp-social-icons pp-social-icons-center pp-social-icons-horizontal pp-responsive-center">
+	<span class="pp-social-icon" itemscope itemtype="http://schema.org/Organization">
+		<link itemprop="url" href="https://www.sparksfoundation.org">
+		<a itemprop="sameAs" href="https://www.facebook.com/SPARKS-Foundation-332483576820016/" target="_blank" title="" aria-label="" role="button" rel="noopener" >
+							<i class="fa fa-facebook"></i>
+					</a>
+	</span>
+		<span class="pp-social-icon" itemscope itemtype="http://schema.org/Organization">
+		<link itemprop="url" href="https://www.sparksfoundation.org">
+		<a itemprop="sameAs" href="https://twitter.com/sparksfound" target="_blank" title="" aria-label="" role="button" rel="noopener" >
+							<i class="fa fa-twitter"></i>
+					</a>
+	</span>
+		<span class="pp-social-icon" itemscope itemtype="http://schema.org/Organization">
+		<link itemprop="url" href="https://www.sparksfoundation.org">
+		<a itemprop="sameAs" href="https://www.instagram.com/sparksfoundation/?hl=en" target="_blank" title="" aria-label="" role="button" rel="noopener" >
+							<i class="ua-icon ua-icon-instagram"></i>
+					</a>
+	</span>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5a70842fd28e0 fl-col-small" data-node="5a70842fd28e0">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-uabb-button fl-node-5a70842fd2974" data-node="5a70842fd2974">
+	<div class="fl-module-content fl-node-content">
+		
+<div class="uabb-module-content uabb-button-wrap uabb-creative-button-wrap uabb-button-width-auto uabb-creative-button-width-auto uabb-button-center uabb-creative-button-center uabb-button-reponsive-center uabb-creative-button-reponsive-center">
+			<a href="https://www.sparksfoundation.org/donate" target="_self"  class="uabb-button uabb-creative-button uabb-creative-flat-btn  uabb-none-btn  "  role="button">
+
+							<span class="uabb-button-text uabb-creative-button-text">MAKE A DONATION</span>
+							
+						
+		</a>
+	</div>
+
+
+
+	</div>
+</div>
+<div class="fl-module fl-module-info-box fl-node-5a70842fd2823" data-node="5a70842fd2823">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-infobox infobox-center ">
+	<div class="uabb-infobox-left-right-wrap">
+	<div class="uabb-infobox-content">
+			<div class='uabb-infobox-title-wrap'></div>			<div class="uabb-infobox-text-wrap">
+				<div class="uabb-infobox-text uabb-text-editor"><p><strong>The S.P.A.R.K.S. Foundation is not government funded.</strong></p>
+<p>By partnering with us, you help get kids excited about STEM and assist in setting them up for success later in life.</p>
+</div>			</div> 
+					</div>	</div>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5a72096bde325 fl-col-small fl-col-has-cols" data-node="5a72096bde325">
+	<div class="fl-col-content fl-node-content">
+	
+<div class="fl-col-group fl-node-5a7209b23ab04 fl-col-group-nested" data-node="5a7209b23ab04">
+			<div class="fl-col fl-node-5a7209b23af3e fl-col-small" data-node="5a7209b23af3e">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-image-icon fl-node-5a72098b28241 fl-visible-desktop-medium" data-node="5a72098b28241">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-imgicon-wrap">				<span class="uabb-icon-wrap">
+			<span class="uabb-icon">
+				<i class="ua-icon ua-icon-icon-111-search2"></i>
+			</span>
+		</span>
+	
+		</div>	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5a7209b23af8f" data-node="5a7209b23af8f">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-widget fl-node-5a72096bddb89" data-node="5a72096bddb89">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-widget">
+<div class="widget widget_search"><form aria-label="Search" method="get" role="search" action="https://www.sparksfoundation.org/" title="Type and press Enter to search.">
+	<input aria-label="Search" type="search" class="fl-search-input form-control" name="s" value="Search" onfocus="if (this.value === 'Search') { this.value = ''; }" onblur="if (this.value === '') this.value='Search';" />
+</form>
+</div></div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+<div class="fl-module fl-module-uabb-advanced-menu fl-node-5a70b51bb5213" data-node="5a70b51bb5213">
+	<div class="fl-module-content fl-node-content">
+			<div class="uabb-creative-menu
+	 uabb-creative-menu-accordion-collapse	uabb-menu-default">
+					<div class="uabb-clear"></div>
+					<ul id="menu-footer-nav" class="menu uabb-creative-menu-horizontal uabb-toggle-none"><li id="menu-item-278" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/support-us/"><span class="menu-item-text">Support Us</span></a></li>
+<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/our-story/"><span class="menu-item-text">Our Story</span></a></li>
+<li id="menu-item-277" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/our-staff/"><span class="menu-item-text">Our Team</span></a></li>
+<li id="menu-item-306" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/our-programs/"><span class="menu-item-text">Our Programs</span></a></li>
+<li id="menu-item-307" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/our-programs/#scholarship-options"><span class="menu-item-text">Scholarships</span></a></li>
+<li id="menu-item-198" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/in-the-news/"><span class="menu-item-text">News</span></a></li>
+<li id="menu-item-313" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/our-story/testimonials/"><span class="menu-item-text">Testimonials</span></a></li>
+<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.sparksfoundation.org/contact/"><span class="menu-item-text">Contact Us</span></a></li>
+</ul>	</div>
+
+		</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5a70842fd259c" data-node="5a70842fd259c">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5a70842fd25e8" data-node="5a70842fd25e8">
+			<div class="fl-col fl-node-5a70842fd262e" data-node="5a70842fd262e">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-info-box fl-node-5a70842fd27a8" data-node="5a70842fd27a8">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-infobox infobox-center ">
+	<div class="uabb-infobox-left-right-wrap">
+	<div class="uabb-infobox-content">
+			<div class='uabb-infobox-title-wrap'></div>			<div class="uabb-infobox-text-wrap">
+				<div class="uabb-infobox-text uabb-text-editor"><p>© 2019 S.P.A.R.K.S. Foundation. All Rights Reserved. <a href="https://www.sparksfoundation.org/privacy-policy/">Privacy Policy</a></p>
+</div>			</div> 
+					</div>	</div>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</footer><div class="uabb-js-breakpoint" style="display: none;"></div>	</div><!-- .fl-page -->
+			<script type='text/javascript'>
+				jQuery(document).ready(function($){
+					var gforms = '.gform_wrapper form';
+					$( document ).on( 'submit', gforms ,function() {
+						$('<input>').attr( 'type', 'hidden' )
+								.attr( 'name', 'gf_zero_spam_key' )
+								.attr( 'value', '3fwXDIO0iooydYVYN1pt8kz4UzSNgSHLUH0ABO3mUoiwBd4IaxtgRcv012xtmZPp' )
+								.appendTo( gforms );
+						return true;
+					});
+				});
+			</script>
+			
+<script src='https://www.sparksfoundation.org/wp-content/plugins/bb-plugin/js/jquery.waypoints.min.js' id='jquery-waypoints-js'></script>
+<script src='https://www.sparksfoundation.org/wp-content/plugins/bbpowerpack/assets/js/owl.carousel.min.js' id='pp-owl-carousel-js'></script>
+<script src='https://www.sparksfoundation.org/wp-content/plugins/bb-plugin/js/jquery.magnificpopup.min.js' id='jquery-magnificpopup-js'></script>
+<script src='https://www.sparksfoundation.org/wp-includes/js/masonry.min.js' id='masonry-js'></script>
+<script src='https://www.sparksfoundation.org/wp-includes/js/jquery/jquery.masonry.min.js' id='jquery-masonry-js'></script>
+<script data-minify="1" src='https://www.sparksfoundation.org/wp-content/cache/min/1/wp-content/plugins/bb-ultimate-addon/assets/js/global-scripts/jquery-masonary-83760f158575c160ba29857405a5dc21.js' id='isotope-js'></script>
+<script src='https://www.sparksfoundation.org/wp-content/plugins/bb-ultimate-addon/assets/js/global-scripts/imagesloaded.min.js' id='imagesloaded-uabb-js'></script>
+<script src='https://www.sparksfoundation.org/wp-content/plugins/bb-plugin/js/jquery.fitvids.min.js' id='jquery-fitvids-js'></script>
+<script data-minify="1" src='https://www.sparksfoundation.org/wp-content/cache/min/1/wp-content/plugins/bb-ultimate-addon/modules/modal-popup/js/js_cookie-0fdc8c0f64bc4453d2f030d234735f3c.js' id='uabbpopup-cookies-js'></script>
+<script src='https://www.sparksfoundation.org/wp-content/uploads/bb-plugin/cache/122-layout.js' id='fl-builder-layout-122-js'></script>
+<script src='https://www.sparksfoundation.org/wp-content/plugins/bb-plugin/js/jquery.ba-throttle-debounce.min.js' id='jquery-throttle-js'></script>
+<script src='https://www.sparksfoundation.org/wp-content/uploads/bb-plugin/cache/1367d61da35065a9a4e346de5132a4f0-layout-bundle.js' id='fl-builder-layout-bundle-1367d61da35065a9a4e346de5132a4f0-js'></script>
+<script data-minify="1" src='https://www.sparksfoundation.org/wp-content/cache/min/1/wp-content/themes/sbm-bb-theme/main-ab4de72b622693b1c44acd5787f61766.js' id='fl-child-scripts-js'></script>
+<script src='https://www.sparksfoundation.org/wp-content/themes/bb-theme/js/bootstrap.min.js' id='bootstrap-js'></script>
+<script id='fl-automator-js-extra'>
+var themeopts = {"medium_breakpoint":"992","mobile_breakpoint":"768"};
+</script>
+<script src='https://www.sparksfoundation.org/wp-content/themes/bb-theme/js/theme.min.js' id='fl-automator-js'></script>

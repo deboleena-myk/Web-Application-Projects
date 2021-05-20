@@ -1,0 +1,11 @@
+Navigation 
+Command 	Target 		Value 
+Click	name=About us	
+Click	name=Policies and code	
+Click	name=Programs	
+Click	name=LINKS	
+Click	name=Join us	
+Click	name=Contact us	
+
+
+
